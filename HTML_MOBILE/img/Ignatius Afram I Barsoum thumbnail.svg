@@ -1,0 +1,294 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    viewBox="0 0 91 119"
+  >
+  <path
+      d="m0 0l4 16c7.277 3.572 10.204 18.206 1 21l-1 6h-4v14c13.159-0.109 20.307-9.132 32-14v4h1l1-6-2-4-4-2h-1l-5 11-4-4c3.194-0.014 5.271 0.403 6-3h-1l-3 2 2-13h5v-4h-4c3.082-6.332-1.104-11.78 7-15l-1-3 11 1 16.353 12.015-2.353 11.985h1l1-3c7.559 4.253 7.51 8.865 6 17l5 6-6-4c2.983 6.397 13.699 22.42 21 23v-3l5-2 4 2v-17c-4.334 1.289-6.235 3.588-10 0l-9 1v-4l16-1 1-14h-1v6h-1l-2-7-3 1-1-4 2-3-7 6h-5l1-3h-4l3-2v-1h-4l3-2c-5.979-31.585-45.977-23-70-23z"
+      fill="#979797"
+  />
+  <path
+      d="m51 0v1c9.023 0.4929 19.733 15.959 16 24h4v1l-3 2h4l-1 3h5l7-6-2 3 1 4 3-1 2 7h1v-6h1l-1 14-16 1v4l9-1c3.149 4.78 5.841 2.052 10 0v-50h-40z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m0 3v40h4l1-6c9.079-1.515 7.182-18.533-1-21l-2-13h-2z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m29 6l1 3c-8.597 2.094-4.949 8.456-7 15h4v4h-5l-2 13 3-2h1l-6 3 4 4 5-11h1l4 2-2.292-16.907 13.292-9.093v-1l-3-3-11-1z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m32 41c4.714-2.971 2.909-8.813 6.434-12.772 8.507-9.556 14.565 0.609 14.566 8.772 1.844-4.385 5.393-15.521 2.972-19.892-4.693-8.4692-21.422-6.436-25.94 1.221-2.638 4.469 1.971 16.966 1.968 22.671z"
+      fill="#282828"
+  />
+  <path
+      d="m37 53l2-1 10 3 3-4v-7h-8l2-5-2-4h1l1 3h1c0.139-4.265 0.708-6.697 5-8-1.092-6.546-10.526-6.673-14.258-1.772-4.637 6.088-3.213 18.174-0.742 24.772z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m52 26v4c-4.806 0.802-4.947 3.566-5 8h-1l-1-3h-1l2 4-2 5 10-1-1 13h1l2-10 7 1 4 4-5-6c1.845-7.749 2.012-13.8-6-17l-2 9h-1l-1-11m-12 7h5v-3l-5 3z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m34 40c-1.791 7.523 0.173 12.503 4 19 2.711-2.022 3.553-2.447 6 0l2-3v9h1l3-8c5.226-0.71 4-9.874 4-14h-4v1l2 1v6l-3 4-10-3-2 1-3-13z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m9 59l1 4c-16.046 10.512-10 39.55-10 56h9l3-6 4 4-1-5 2 7h74l-9-21 3 5h1l-1-5 4-1v5h1c3.538-11.995-5.504-19.346-11.404-28.054-6.829-10.078-9.204-23.393-22.596-27.946l-2.824 13.91 4.824 17.09h-1l-5-17h-1v3c-8.437 1.47 6.144 20.597 8 27h-1l-4-4 1-4-6 2-2-5h-1l-1 3c-6.293-1.059-7.556 8.616-9 14h-1l-4.197-20 1.197-33-15.917 8.222-7.083 7.778z"
+      fill="#282828"
+  />
+  <path
+      d="m33 51c-0.205 9.926-6.938 25.91 2 33l-2-33z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m34 53l-2 19c4.155 1.291 4.155 3.709 0 5l1 4 4-4h1l1 3 1-5 5-1 1 3 4-2-6-7-6 6c-1.052-4.428-0.578-6.657 4-8l-8-13z"
+      fill="#282828"
+  />
+  <path
+      d="m0 57c0 4.386-1.0329 9.385 3 12l-1 4h1l7-10-1-4 3-3-12 1z"
+      fill="#565656"
+  />
+  <path
+      d="m43 69c2.624 0.754 5.951 3.032 5 6v1h4c-2.238-7.54-11.021-11.628-9-20-6.605 2.199-1.69 8.539 0 13z"
+      fill="#979797"
+  />
+  <path
+      d="m45 56l-3 2c-0.584 3.72 0.658 5.344 4 7l-1-9m7 0l-2 1-2 6 3-3h1v6l3-2v-1l-3-7z"
+      fill="#565656"
+  />
+  <path
+      d="m56 61l4 6v-5l-4-1z"
+      fill="#979797"
+  />
+  <path
+      d="m54 64c-1.091 4.759-0.919 8.118 4 10l-4-10z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m55.333 65.667l0.334 0.666-0.334-0.666z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m87 65l-5 2v3h-5l13 23h1v-26l-4-2z"
+      fill="#565656"
+  />
+  <path
+      d="m38 74c12.117-4.27-4.768-12.143 0 0m21-7l2 6v-6h-2z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m0 68v7h1c0.9112-3.116 1.6214-4.852-1-7z"
+      fill="#979797"
+  />
+  <path
+      d="m33.603 73.157c-1.733 1.157 0.061 3.844 1.794 2.686 1.733-1.157-0.061-3.844-1.794-2.686m6.397 1.843v6h4l2-6-1-1-5 1z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m56 74l1 3h1v-3h-2z"
+      fill="#565656"
+  />
+  <path
+      d="m43 79v3l3-3h1l2 5c8.066-3.243 1.105-9.385-6-5z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m52 76l1 6 3-1-4-5z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m37 77l-2 6 5-1-3-5z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m58 78l1 5h1l-2-5m-22 3c-2.825 5.137-4.252 9.347 2 12l1-12h-3z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m55 81l-1 5 4 4h1l-4-9z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m38.333 82.667l0.334 0.666-0.334-0.666z"
+      fill="#565656"
+  />
+  <path
+      d="m62 84l1 3h1v-3h-2z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m34 88l3 3-3-3z"
+      fill="#282828"
+  />
+  <path
+      d="m60 88v3h2v-3h-2m-27 3l2 5h1l1-4-4-1z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m15 110h1l1-11h1v9h1v-9h2l-1 10h1l2-13c-9.562 0.284-10.974 5.84-8 14m71-13l1 9h1v-9h-2z"
+      fill="#e8e8e8"
+  />
+  <path
+      d="m88 97l-1 10 2 9h2v-15l-2 1-1-5z"
+      fill="#565656"
+  />
+  <path
+      d="m82 98c0.595 2.44 3.764 9.76 5 4l-5-4m3.333 0.667l0.334 0.666-0.334-0.666z"
+      fill="#979797"
+  />
+  <path
+      d="m17 99v11h2l2-11h-2v9h-1l-1-9z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m24 99l1 7h1v-7h-2z"
+      fill="#979797"
+  />
+  <path
+      d="m12 101v8h1l-1-8z"
+      fill="#7a7a7a"
+  />
+  <path
+      d="m33 104v4l6 1-6-5z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m15 112l1 5-4-4-3 6h8l-2-7z"
+      fill="#7a7a7a"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Ignatius Afram I Barsoum thumbnail</dc:title
+        >
+        <dc:date
+          >2013-09-30T19:31:52</dc:date
+        >
+        <dc:description
+          >This public domain image comes from https://commons.wikimedia.org/w/index.php?title=Category:PD-Syria&amp;filefrom=Hafez+al-Assad+and+his+top+officials+in+1971.png%0AHafez+al-Assad+and+his+top+officials+in+1971.pngand as of 2013-09-30 19:21:51 is this file, https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Ignatius_Afram_I_Barsoum.jpg/91px-Ignatius_Afram_I_Barsoum.jpg. a .jpg .wikimedia.org </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/184268/ignatius-afram-i-barsoum-thumbnail-by-syria-184268</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >syria</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >91px-Ignatius_Afram_I_Barsoum</rdf:li
+            >
+            <rdf:li
+              >Ignatius_Afram_I_Barsoum</rdf:li
+            >
+            <rdf:li
+              >commons</rdf:li
+            >
+            <rdf:li
+              >dig</rdf:li
+            >
+            <rdf:li
+              >f</rdf:li
+            >
+            <rdf:li
+              >fa</rdf:li
+            >
+            <rdf:li
+              >mw-category-media</rdf:li
+            >
+            <rdf:li
+              >pd</rdf:li
+            >
+            <rdf:li
+              >publicdomain</rdf:li
+            >
+            <rdf:li
+              >syria</rdf:li
+            >
+            <rdf:li
+              >thumb</rdf:li
+            >
+            <rdf:li
+              >upload</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+            <rdf:li
+              >vectorized</rdf:li
+            >
+            <rdf:li
+              >wikipedia</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>

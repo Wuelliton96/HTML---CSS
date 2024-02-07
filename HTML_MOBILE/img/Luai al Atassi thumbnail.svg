@@ -1,0 +1,330 @@
+<?xml version="1.0"?>
+<svg
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:cc="http://web.resource.org/cc/"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:svg="http://www.w3.org/2000/svg"
+    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+    xmlns:ns1="http://sozi.baierouge.fr"
+    viewBox="0 0 89 119"
+  >
+  <path
+      d="m0 0v37c8.7323-0.284 12.96-8.393 19-13.83 9.879-8.892 20.673-17.038 33-22.17l-17-1h-35z"
+      fill="#efefef"
+  />
+  <path
+      d="m22 22c11.683-4.588 20.632-20.623 35-15l3-2v4l5-9c-14.905 0-35.905 7.4392-43 22z"
+      fill="#545454"
+  />
+  <path
+      d="m60 9v-4l-3 2c-11.111-6.6703-22.819 7.054-31.17 12.436-4.233 2.728-8.095 3.823-11.815 7.569-3.061 3.081-6.4137 6.456-6.8661 10.995-0.9516 9.548 7.2821 8.941 12.066 14.028 3.721 3.957 3.963 11.154 7.059 15.694 1.619 2.374 4.623 3.405 6.726 5.278l-10-3-6 10v1l8-1-12 8-3-1-10 8c7.649-0.847 17.72-12.295 25-7 10.553-2.261 8.025 6.552 12.639 11.667 2.351 2.603 4.797 0.963 5.361-1.667l5-1 1 4c6.645 1.2 21.132 8.15 24-2l16 14v-9l-12-8 1 3-5-2v-10l-3 12h-1l-15-2 5 4v1l-9-2 3-5h-8l2-4-4 3-9-10 7 3 1-4v-1h-5c4.72-4.436 10.828-3.761 15 1l7 1-4-3 1-3-2 1 6-5h-13l-2-5 6-2-1 3c5.353 0.355 19.098 2.507 22 7h1c-0.152-7.093-9.6-12.991-16-14.028-3.448-0.558-8.296-2.381-9 2.028l-8-1v-5l-4-3c-6.672-0.746-8.296-8.546-4-13l-1-2 23-14-3-5 14-2c-1.296-8.05 0.086-12.502 3-20l-8 9z"
+      fill="#363636"
+  />
+  <path
+      d="m68 0l2.422 22.957 10.578-0.957c-3.264-8.688-5.134-12.667-3-22h-10z"
+      fill="#efefef"
+  />
+  <path
+      d="m87 28h1l1-28c-2.757 0-6.111-0.48764-8.776 0.3179-13.339 4.0336 3.964 23.187 6.776 27.682z"
+      fill="#363636"
+  />
+  <path
+      d="m66 2l-1 18-9 1-1 6v1c7.475-0.59 15.534-2.162 22.999-0.517 10.967 2.416 1.38 9.262-3.999 11.517l3 8h-2l-2-4 1 3-2-2h-1v6l-3 3 9-1 2 12h3l2-4h-4l3-2v-1c-6.224-1.966-5-8.54-5-14l11-2v-22h-1v9h-1c-4.391-10.26-10.646-0.89-16.473-5.477-2.504-1.971-1.049-16.738-1.527-20.523h-3z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m65 10v5h1l2-4-3-1z"
+      fill="#121212"
+  />
+  <path
+      d="m83 12v5h2v-5h-2z"
+      fill="#929292"
+  />
+  <path
+      d="m68 13l-2 5 2-5z"
+      fill="#363636"
+  />
+  <path
+      d="m51 22l5 4v-5l-5 1z"
+      fill="#929292"
+  />
+  <path
+      d="m56 25l-25 16v1h6v-1l-2-1 8-3-1-3 12-4 7 1c3.476 4.158 24.863 12.632 23.079 0.129-1.081-7.57-24.122-3.755-29.079-3.129v-1l1-2z"
+      fill="#121212"
+  />
+  <path
+      d="m58 25v1h4l-4-1z"
+      fill="#363636"
+  />
+  <path
+      d="m66 25v1h9l-9-1z"
+      fill="#efefef"
+  />
+  <path
+      d="m39 31l3-2-3 2z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m54 30l-12 4 1 3-8 5v1l7 2h1c5.69-5.304 20.658 1.477 23 8l5-3v-6h1l2 2-1-3 2 4h2c-1.085-9.786-9.555-10.896-16-16l-7-1z"
+      fill="#545454"
+  />
+  <path
+      d="m46 39l11-1v-2c-4.488-0.192-9.277-2.176-11 3m-40-3l-6 1v10l6-2 3 1-3-10z"
+      fill="#929292"
+  />
+  <path
+      d="m78 43l4 22 7-1v-23l-11 2m-46-1v1l4 1v-1l-4-1z"
+      fill="#efefef"
+  />
+  <path
+      d="m43 45h-1l-6-2 2 2 1 9-5-1 2-3-3 1 2-3-3-3-1 3h-1v-3h-1c-0.706 5.208 1.175 10.738 7 11l4 3v5l8 1 1-3 16 3 1-4-3 2-4-13 6-1c-2.937-4.057-18.582-8.837-22-4z"
+      fill="#929292"
+  />
+  <path
+      d="m30 43v2l2-2h-2z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m30 48h1l1-3 3 3-2 3 3-1-2 3 5 1-1-9c-4.15-1.383-6.606-1.548-8 3m-24-3c-5.7372 3.152-7.6754 7.396-1 12l-1-6c3.717-1.049 5.6414-3.374 2-6z"
+      fill="#545454"
+  />
+  <path
+      d="m68 45l-2 1 1 4 1-5m-59 1l-5 5 2 11h1v-3l3 3 10-5c0.002 3.27 0.544 5.067 4 5l-3-8-2 2-12-2 14-1-12-7z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m59 50l4 13c4.124-2.591 7.104-4.913 11-1-16.066 0.057-3.16 6.998-1 14l4-5h-3v-3l6-1-4-13c-5.412 1.349-8.497 0.145-11-5l-6 1z"
+      fill="#efefef"
+  />
+  <path
+      d="m0 52v8l4-1 2.9722 20.892-6.9722 13.108 10-6 3 1 12-8h-14l-5-25h-1l-2 2-3-5m7 2c3.224 4.471 7.326 1.834 12 2l1-3-13 1z"
+      fill="#929292"
+  />
+  <path
+      d="m67 52c2.636 4.163 6.14 3.177 10 1v-1h-10z"
+      fill="#121212"
+  />
+  <path
+      d="m17 57l-7 5-3-3 4 21 16-10-3-8-3 1-1-6h-3z"
+      fill="#efefef"
+  />
+  <path
+      d="m80 58v2h4v-2h-4z"
+      fill="#545454"
+  />
+  <path
+      d="m0 86c12.191-5.854 5.594-16.206 4-27-7.261 2.919-4 20.22-4 27z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m67 59v1h6l-6-1z"
+      fill="#545454"
+  />
+  <path
+      d="m66 62h8c-2.232-2.554-5.768-2.554-8 0z"
+      fill="#121212"
+  />
+  <path
+      d="m68 61v1h4l-4-1z"
+      fill="#545454"
+  />
+  <path
+      d="m80 63v4l-6 4h3l-5 6c-0.93-4.338-17.475-6.981-22-7l1-3-6 2 2 5h13l-6 5 2-1-1 3 4 3-7-1c-2.956-5.111-7.751-4.37-13-4 3.055 5.153 8.196 8.108 2 13l-7-8 9 10 4-3-2 4h8l-3 5 9 2v-1l-5-4 14 1 1-4v-1l-9-15 7-1 2 6 20-14v-5l-6 4-3-5z"
+      fill="#121212"
+  />
+  <path
+      d="m82 65v2l1 1 5-4-6 1z"
+      fill="#929292"
+  />
+  <path
+      d="m70 67l4-3-4 3m0 17l-5-2 4 11v6h1l3-12v10l5 2-1-3c6.396 6.5 11.954 11.26 12-2l-9 1 9-7v-19c-6.126 0.971-17.684 8.762-19 15z"
+      fill="#545454"
+  />
+  <path
+      d="m26 70v1l7 2-7-3m39 7l1 3h1v-3h-2z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m60 78l10 6c-2.639-4.305-4.942-5.847-10-6m-23 2v2h3v-2h-3m-28 4l4-1-4 1m31-1l6 5-6-5m-37 2v1h5l-5-1z"
+      fill="#efefef"
+  />
+  <path
+      d="m19 86v1l2 4 6-1c-3.129 6.159 2.293 8.405 8 8l-2 4 4 6v1h-4v1h5l-3 2 1 6 30 1-5-14 3 4 10-1c3.225 7.74 6.433 10.92 15 11v-6l-16-14c-4.574 9.93-16.428 2.78-24 2l-1-4-5 1c-3.868 5.74-8.995-12.194-18-10l-6-2z"
+      fill="#545454"
+  />
+  <path
+      d="m38 87l3 5 5-4-8-1m-38 8v1l9 2-1 3c7.31-0.01 12.464 3.11 15 10l-23-4v9c6.9175-1.86 18.408-4.26 25-1h1v-5l6-1 5 8 1-7h-5v-1h4v-1h-3c1.332-2.84 2.673-5.2-1-6l2-4c-5.508-0.748-10.151-1.767-8-8l-6 1v-4l-21 8z"
+      fill="#929292"
+  />
+  <path
+      d="m61 87l5 5-5-5z"
+      fill="#545454"
+  />
+  <path
+      d="m86 88l-6 7 9-3v-4h-3z"
+      fill="#b3b3b3"
+  />
+  <path
+      d="m82 94v1l7-3-7 2z"
+      fill="#121212"
+  />
+  <path
+      d="m0 96c0 3.884-1.5809 10.02 3 11l-2-2 1-4 19 6c-2.014-5.06-7.925-6.31-13-6l1-3-9-2z"
+      fill="#545454"
+  />
+  <path
+      d="m60 99l7 3v-1l-7-2z"
+      fill="#929292"
+  />
+  <path
+      d="m2 101l-1 4c6.7043 4.6 13.967 5.98 22 6-2.439-7.9-13.86-9.04-21-10z"
+      fill="#363636"
+  />
+  <path
+      d="m87 102v2h2v-2h-2z"
+      fill="#929292"
+  />
+  <path
+      d="m61 105c2.617 13.83 8.266 14 21 14v-1l-8-10-10 1-3-4z"
+      fill="#363636"
+  />
+  <path
+      d="m30 109l-3 1c0.864 4.34 1.381 6.99 6 8l-1-9h-2z"
+      fill="#545454"
+  />
+  <path
+      d="m26 110l1 9h10l-4-7h-1l1 6-7-8z"
+      fill="#121212"
+  />
+  <path
+      d="m0 119h27v-5l-2-1c-6.758 1.26-22.42-1.86-25 6z"
+      fill="#363636"
+  />
+  <metadata
+    >
+    <rdf:RDF
+      >
+      <cc:Work
+        >
+        <dc:format
+          >image/svg+xml</dc:format
+        >
+        <dc:type
+            rdf:resource="http://purl.org/dc/dcmitype/StillImage"
+        />
+        <cc:license
+            rdf:resource="http://creativecommons.org/licenses/publicdomain/"
+        />
+        <dc:publisher
+          >
+          <cc:Agent
+              rdf:about="http://openclipart.org/"
+            >
+            <dc:title
+              >Openclipart</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:publisher
+        >
+        <dc:title
+          >Luai al Atassi thumbnail</dc:title
+        >
+        <dc:date
+          >2013-09-30T19:32:15</dc:date
+        >
+        <dc:description
+          >This public domain image comes from https://commons.wikimedia.org/w/index.php?title=Category:PD-Syria&amp;filefrom=Hafez+al-Assad+and+his+top+officials+in+1971.png%0AHafez+al-Assad+and+his+top+officials+in+1971.pngand as of 2013-09-30 19:21:51 is this file, https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Luai_al-Atassi.jpg/89px-Luai_al-Atassi.jpg. 1 .jpg .wikimedia.org </dc:description
+        >
+        <dc:source
+          >https://openclipart.org/detail/184292/luai-al-atassi-thumbnail-by-syria-184292</dc:source
+        >
+        <dc:creator
+          >
+          <cc:Agent
+            >
+            <dc:title
+              >syria</dc:title
+            >
+          </cc:Agent
+          >
+        </dc:creator
+        >
+        <dc:subject
+          >
+          <rdf:Bag
+            >
+            <rdf:li
+              >89px-Luai_al-Atassi</rdf:li
+            >
+            <rdf:li
+              >Luai_al-Atassi</rdf:li
+            >
+            <rdf:li
+              >commons</rdf:li
+            >
+            <rdf:li
+              >dig</rdf:li
+            >
+            <rdf:li
+              >f</rdf:li
+            >
+            <rdf:li
+              >f1</rdf:li
+            >
+            <rdf:li
+              >mw-category-media</rdf:li
+            >
+            <rdf:li
+              >pd</rdf:li
+            >
+            <rdf:li
+              >publicdomain</rdf:li
+            >
+            <rdf:li
+              >syria</rdf:li
+            >
+            <rdf:li
+              >thumb</rdf:li
+            >
+            <rdf:li
+              >upload</rdf:li
+            >
+            <rdf:li
+              >upload2openclipart</rdf:li
+            >
+            <rdf:li
+              >vectorized</rdf:li
+            >
+            <rdf:li
+              >wikipedia</rdf:li
+            >
+          </rdf:Bag
+          >
+        </dc:subject
+        >
+      </cc:Work
+      >
+      <cc:License
+          rdf:about="http://creativecommons.org/licenses/publicdomain/"
+        >
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Reproduction"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#Distribution"
+        />
+        <cc:permits
+            rdf:resource="http://creativecommons.org/ns#DerivativeWorks"
+        />
+      </cc:License
+      >
+    </rdf:RDF
+    >
+  </metadata
+  >
+</svg
+>
